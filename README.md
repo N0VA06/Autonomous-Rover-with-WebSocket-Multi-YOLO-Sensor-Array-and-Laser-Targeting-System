@@ -1,11 +1,11 @@
 # Autonomous Rover
 
 A fully autonomous reconnaissance rover equipped with real-time camouflage detection, object classification, and laser-based threat targeting capabilities.
-## Overview and Simulation
-![image](https://github.com/user-attachments/assets/72d2cb86-8067-4c43-806f-e81ee60b5202)
-
-![image](https://github.com/user-attachments/assets/881cdfec-bc71-46eb-a2a3-cb77ef02d1c0)
-![image](https://github.com/user-attachments/assets/81e49978-7e8c-4863-97f7-948c491c9845)
+## Overview and Demo Results
+![image](https://github.com/user-attachments/assets/2466cae7-bd0b-43f5-94b4-baeb694645b6)
+![image](https://github.com/user-attachments/assets/95d21418-5480-4cfa-a957-f458fa4d548a)
+![image](https://github.com/user-attachments/assets/3966c12a-d219-47cc-a5ca-d04006b56c28)
+![Screenshot 2025-04-20 165309](https://github.com/user-attachments/assets/6c8b1546-42b2-4fd7-ba83-c1b8d337395b)
 
 ## Demo Videos
 
