@@ -1,6 +1,7 @@
 # Autonomous Rover
 
 A fully autonomous reconnaissance rover equipped with real-time camouflage detection, object classification, and laser-based threat targeting capabilities.
+/Arduino can be used if you have want to use arduino for controlling motors
 ## Overview and Demo Results
 ![image](https://github.com/user-attachments/assets/2466cae7-bd0b-43f5-94b4-baeb694645b6)
 ![image](https://github.com/user-attachments/assets/95d21418-5480-4cfa-a957-f458fa4d548a)
